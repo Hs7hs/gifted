@@ -21,7 +21,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "94713520744"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -29,9 +29,9 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "Put your SESSION_ID.  Must start with Gifted~",
+      "description": "Gifted~dTtiJ5T3",
       "required": true,
-      "value": ""
+      "value": "Gifted~dTtiJ5T3"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
