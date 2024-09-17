@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "Hashan"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "94713520744"
+      "value": "94713457207"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -29,9 +29,9 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "Gifted~dTtiJ5T3",
+      "description": "Gifted~aSnxRzPt",
       "required": true,
-      "value": "Gifted~dTtiJ5T3"
+      "value": "Gifted~aSnxRzPt"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
